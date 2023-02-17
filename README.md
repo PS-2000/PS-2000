@@ -1,4 +1,4 @@
-![MasterHead](https://ak.picdn.net/shutterstock/videos/408988/thumb/1.jpg)
+![MasterHead](https://thumbs.gfycat.com/AshamedWeightyDachshund.webp)
 <h1 align="center">Hi 👋, I'm Priyotosh Saha</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ak8.picdn.net/shutterstock/videos/32543728/thumb/1.jpg">
