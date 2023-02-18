@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science and Deep Learning with Python**
 
-- 💬 Ask me about **Machine Learning, Regressions , Python etc.**
+- 💬 Ask me about **CPP,Machine Learning, Regressions , Python etc.**
 
 - 📫 How to reach me **sahapriyotosh721@gmail.com**
 
