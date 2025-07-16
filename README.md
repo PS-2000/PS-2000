@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/morbiuscoder" target="blank"><img src="https://img.shields.io/twitter/follow/morbiuscoder?logo=twitter&style=for-the-badge" alt="morbiuscoder" /></a> </p>
 
-- 🔭 I’m currently working on [COVID Detection Models Using AI](https://github.com/PS-2000/DeployingCOVID19portal/tree/master/COVID19/covidray)
+- 🔭 I’m currently working on [Virtual (or Software) switch + Distributed ML operatives](https://github.com/Hrithik7869/Scalable-Matrix-Multiplication-Framework-with-Docker-and-TCP-)
 
 - 🌱 I’m currently learning **Machine Learning, Data Science and Deep Learning with Python**
 
