@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahapriyotosh721@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LyKUz7bB7fLghdjsqSZUAqAkyNSgJSV9/view?usp=sharing](https://drive.google.com/file/d/1GMpFLEEg_P8I5Z0Of20AUpJcrr5vQrIj/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LyKUz7bB7fLghdjsqSZUAqAkyNSgJSV9/view?usp=sharing](https://drive.google.com/file/d/1qn9mmCXFQ5F3ehy7FeQgriSmHh2SLTC-/view?usp=drive_link)
 
 - ⚡ Fun fact **Humorous , Graspable.**
 
