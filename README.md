@@ -28,7 +28,7 @@
 ### 📫 Reach Me
 - Email: [sahapriyotosh721@gmail.com](mailto:sahapriyotosh721@gmail.com)  
 - LinkedIn: [linkedin.com/in/priyotosh-saha](https://linkedin.com/in/priyotosh-saha)  
-- Resume: [View Here](https://drive.google.com/file/d/1LyKUz7bB7fLghdjsqSZUAqAkyNSgJSV9/view?usp=sharing)
+- Resume: [View Here]([https://drive.google.com/file/d/1qn9mmCXFQ5F3ehy7FeQgriSmHh2SLTC-/view?usp=drive_link])
 
 ---
 
