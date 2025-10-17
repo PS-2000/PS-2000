@@ -1,23 +1,42 @@
-![MasterHead](https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif)
-<h1 align="center">Hi 👋, I'm Priyotosh Saha , WELCOME TO MY AI HUB</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://ak8.picdn.net/shutterstock/videos/32543728/thumb/1.jpg">
+# 👋 Hi, I'm Priyotosh Saha  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ps-2000&label=Profile%20views&color=0e75b6&style=flat" alt="ps-2000" /> </p>
+🎓 **M.Tech in Computer Science and Engineering @ IIIT Delhi (Batch 2024–26)**  
+🔬 **Research Intern @ Complex Systems Laboratory**  
+💡 **Teaching Assistant for DSA, Computer Networks & Human-Centered AI**  
+📘 **Publication:** Accepted at CVIP 2025 (Springer) — *“IndianFood100: Advancing Fine-Grained Indian Dish Recognition with State-of-the-Art YOLO Models”*
 
-<p align="left"> <a href="https://twitter.com/morbiuscoder" target="blank"><img src="https://img.shields.io/twitter/follow/morbiuscoder?logo=twitter&style=for-the-badge" alt="morbiuscoder" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Virtual (or Software) switch + Distributed ML operatives](https://github.com/Hrithik7869/Scalable-Matrix-Multiplication-Framework-with-Docker-and-TCP-)
+### 🔭 Current Work
+- Building a **Virtual (Software) Switch** and exploring **Distributed Machine Learning Operatives**.
+- Developing applied projects that integrate AI, systems, and automation.
 
-- 🌱 I’m currently learning **Machine Learning, Data Science and Deep Learning with Python**
+---
 
-- 💬 Ask me about **CPP,Machine Learning, Regressions , Python etc.**
+### 🌱 Learning Focus
+- Deep-diving into **Machine Learning**, **Data Science**, and **Deep Learning with Python**.
+- Exploring **LLMs, RAG**, and **AI Agent systems** for intelligent automation.
 
-- 📫 How to reach me **sahapriyotosh721@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LyKUz7bB7fLghdjsqSZUAqAkyNSgJSV9/view?usp=sharing](https://drive.google.com/file/d/1qn9mmCXFQ5F3ehy7FeQgriSmHh2SLTC-/view?usp=drive_link)
+### 💬 Ask Me About
+- **C++**, **Python**, **Machine Learning**, **Regression Models**, and **AI concepts**.
+- How to bridge the gap between research and real-world deployment.
 
-- ⚡ Fun fact **Humorous , Graspable.**
+---
+
+### 📫 Reach Me
+- Email: [sahapriyotosh721@gmail.com](mailto:sahapriyotosh721@gmail.com)  
+- LinkedIn: [linkedin.com/in/priyotosh-saha](https://linkedin.com/in/priyotosh-saha)  
+- Resume: [View Here](https://drive.google.com/file/d/1LyKUz7bB7fLghdjsqSZUAqAkyNSgJSV9/view?usp=sharing)
+
+---
+
+### ⚡ Fun Fact
+Humorous by nature, graspable by logic 😄 — I believe learning is best when it’s both **curious and creative**.
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
